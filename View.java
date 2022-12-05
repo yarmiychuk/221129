@@ -11,7 +11,7 @@ public class View {
         System.out.println("Число a равно числу b. Нет необходимости искать способы преобразования");
     }
 
-    public static void errorData() {
+    public static void noWay() {
         System.out.println("Нет возможных способов преобразования a в b");
     }
 

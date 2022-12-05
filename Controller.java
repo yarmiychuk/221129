@@ -10,7 +10,7 @@ public class Controller {
             if (count > 0) {
                 View.showSteps(count, data.getSteps());
             } else {
-                View.errorData();
+                View.noWay();
             }
         }
     }
